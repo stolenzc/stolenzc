@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on eggrj.com
+- 🔭 I’m currently working on ![eggrj.com](https://www.eggrj.com)
 - 🌱 I’m currently Using:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
