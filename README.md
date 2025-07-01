@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ![](https://www.eggrj.com/favicon.ico) [eggrj.com](https://www.eggrj.com)
 - 🌱 I’m currently Using:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+  ![Golang](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
